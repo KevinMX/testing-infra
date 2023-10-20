@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install dependencies
-        run: apt install -y jq
+        run: sudo apt install -y jq
       - uses: actions/checkout@v4.1.1
       - name: Validate user_map.json
         run: bash .github/workflows/test.sh
