@@ -4,7 +4,7 @@ Infra for testing team's projects.
 
 ### Usage / SOP
 
-1. Make sure you've configured a SSH private key on GitHub.
+1. Make sure you've configured a SSH key on GitHub.
 2. Fork this repository.
 3. Modifiy [user_map.json](./user_map.json), add your username:
     - "username": ["GitHub username"]
