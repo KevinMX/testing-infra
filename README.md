@@ -10,7 +10,7 @@ Infra for testing team's projects.
     - "username": ["GitHub username"]
     - Make sure it's in alphabet order.
 4. PR your changes to this repo.
-5. `/ping` @KevinMX on Telegram / WeChat.
+5. `/ping` @KevinMX_Neo on Telegram / @KevinMX_AC on WeChat.
 6. Ask for what you need.
 6. Wait for the `/pong` and login credentials.
 7. Enjoy.
